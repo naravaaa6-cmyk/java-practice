@@ -1,0 +1,10 @@
+class AccountManager{
+    this.isloading = false;  
+}
+loadAccounts(data){
+    getByIndustry(industry) 
+formatForDropdown()
+      return { label, value }
+   addAccount 
+    getSummary() {
+           return `Total Accounts   
