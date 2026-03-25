@@ -1,0 +1,10 @@
+const account = {
+  name: "Salesforce",
+  type: "Technology",
+  revenue: 500000
+};
+account.revenue = 750000;
+account.region = "EMEA";
+const number = 5 ;
+
+
