@@ -1,0 +1,14 @@
+function fetchRecord(id){
+    return(promise);
+    if(id true);
+  reject("Error: No ID provided");
+  setTimeout()) => {
+    resolve ( id, name: "Sample Account" );
+  } 500);
+  
+  fetchRecord("001")
+
+
+  
+
+}
