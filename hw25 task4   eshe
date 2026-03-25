@@ -1,0 +1,7 @@
+ function loadData(recordId) {
+     if (recordId)
+        return;
+    console.log  ("Loading data for: <recordId>");
+
+
+ }
