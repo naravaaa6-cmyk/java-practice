@@ -1,0 +1,14 @@
+ function makeMultiplier(factor) {
+ }
+return number*factor;
+const double =  makeMultiplier(2);
+const triple  = makeMultiplier(3);
+
+function makeCounter(start){
+    return{
+    increment() {
+        getCount(){
+          }     
+        }
+        
+    
