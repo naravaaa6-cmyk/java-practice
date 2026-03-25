@@ -1,0 +1,7 @@
+function checkValue (val) {
+     if val
+  console.log ("Has value: <val>");
+
+}else{
+     console.log ("No value" );
+}
