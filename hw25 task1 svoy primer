@@ -1,0 +1,13 @@
+console.log ("A");
+setTimeout()) => {
+    console.log ("B");
+}, 100);
+console.log (D);
+setTimeout()) => {
+    console.log ("XY");
+}, 0);
+console.log(C);
+
+
+
+
